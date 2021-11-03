@@ -31,14 +31,14 @@
 
 #### 数据可视化
 
-| 框架 | 简介 | 地址 |
+| 框架 | 简介 |
 | --- | --- | --- |
-| Echarts | 最常见的可视化图表库 | [Echarts官方中文文档](https://echarts.apache.org/zh/index.html) |
-| G2 | Antv团队推出的可视化图表库，采用数据与配置分离+链式函数调用方法 | [G2官方文档](http://antv-2018.alipay.com/zh-cn/g2/3.x/index.html) |
+| [Echarts](https://echarts.apache.org/zh/index.html) | 最常见的可视化图表库 |
+| [G2](http://antv-2018.alipay.com/zh-cn/g2/3.x/index.html) | Antv团队推出的可视化图表库，采用数据与配置分离+链式函数调用方法   |
 
 #### 工具函数
 
-| 框架 | 简介 | 地址 |
+| 框架 | 简介 |
 | --- | --- | --- |
-| lodash | 目前最常用的工具函数集 | [Lodash](https://lodash.com/)  |
+| [Lodash](https://lodash.com/) | 目前最常用的工具函数集 |
 
