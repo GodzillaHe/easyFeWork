@@ -32,13 +32,13 @@
 #### 数据可视化
 
 | 框架 | 简介 |
-| --- | --- | --- |
+| --- | --- |
 | [Echarts](https://echarts.apache.org/zh/index.html) | 最常见的可视化图表库 |
 | [G2](http://antv-2018.alipay.com/zh-cn/g2/3.x/index.html) | Antv团队推出的可视化图表库，采用数据与配置分离+链式函数调用方法   |
 
 #### 工具函数
 
 | 框架 | 简介 |
-| --- | --- | --- |
+| --- | --- |
 | [Lodash](https://lodash.com/) | 目前最常用的工具函数集 |
 
